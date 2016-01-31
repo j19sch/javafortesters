@@ -1,6 +1,5 @@
 package com.javafortesters.chap010introducingcollections;
 
-import com.javafortesters.chap008selectionsdecisions.AssertTrue;
 import com.javafortesters.domainentities.User;
 import org.junit.Test;
 import static org.junit.Assert.*;

@@ -3,7 +3,7 @@ package com.javafortesters.chap008selectionsdecisions;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class NestedIfElseHorror {
+public class NestedIfElseHorrorTest {
 
     private boolean truthy = true;
     private boolean falsey = false;

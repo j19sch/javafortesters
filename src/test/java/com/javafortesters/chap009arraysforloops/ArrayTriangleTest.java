@@ -3,7 +3,7 @@ package com.javafortesters.chap009arraysforloops;
 import jdk.nashorn.internal.runtime.arrays.ArrayIndex;
 import org.junit.Test;
 
-public class ArrayTriangle {
+public class ArrayTriangleTest {
 
     public void print2DIntArray(int [][]multi){
         for(int[] outer : multi){

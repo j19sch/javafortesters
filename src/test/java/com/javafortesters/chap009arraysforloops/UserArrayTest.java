@@ -4,7 +4,7 @@ import com.javafortesters.domainentities.User;
 import org.junit.Test;
 import org.junit.Assert;
 
-public class UserArray {
+public class UserArrayTest {
 
     @Test
     public void createUserArray(){

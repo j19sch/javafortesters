@@ -4,7 +4,7 @@ package com.javafortesters.chap008selectionsdecisions;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class CatOrCats {
+public class CatOrCatsTest {
 
     @Test
     public void checkNumberOfCats(){

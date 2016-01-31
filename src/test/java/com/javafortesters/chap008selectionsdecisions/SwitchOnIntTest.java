@@ -3,7 +3,7 @@ package com.javafortesters.chap008selectionsdecisions;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class SwitchOnInt {
+public class SwitchOnIntTest {
 
     @Test
     public void checkSwitchOnInt(){

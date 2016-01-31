@@ -7,7 +7,7 @@ import java.util.Arrays;
 
 import static org.junit.Assert.assertEquals;
 
-public class WorkDaysSort {
+public class WorkDaysSortTest {
 
     @Test
     public void sortWeekdays(){
