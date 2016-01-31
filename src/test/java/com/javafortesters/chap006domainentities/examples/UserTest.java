@@ -24,6 +24,7 @@ public class UserTest {
         User buser = new User();
         buser.username = "bob";
         assertEquals("non-default username bob", "bob", buser.getUsername());
+        assertEquals("default password expected", "password", buser.getPassword());
     }
 
     @Test
