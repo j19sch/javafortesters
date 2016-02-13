@@ -9,7 +9,7 @@ import static org.junit.Assert.assertEquals;
 /**
  * Created by jss on 2-2-16.
  */
-public class Inheritance {
+public class InheritanceTest {
 
     @Test
     public void normalUserVersusReadOnly(){

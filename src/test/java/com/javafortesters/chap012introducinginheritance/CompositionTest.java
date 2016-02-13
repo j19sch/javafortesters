@@ -8,7 +8,7 @@ import static org.junit.Assert.assertEquals;
 /**
  * Created by jss on 2-2-16.
  */
-public class Composition {
+public class CompositionTest {
 
     @Test
     public void getUrlViaUserObject(){
